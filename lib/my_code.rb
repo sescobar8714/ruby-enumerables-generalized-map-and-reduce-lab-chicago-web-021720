@@ -22,4 +22,4 @@ while i < array.count
 i += 1
 end
 sum
-end 
+end
