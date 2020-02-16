@@ -21,5 +21,5 @@ while i < array.count
   sum = yield(sum, array[i])
 i += 1
 end
-sem
+sum
 end 
